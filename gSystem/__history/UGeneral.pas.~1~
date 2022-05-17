@@ -1,0 +1,10 @@
+unit UGeneral;
+
+var id_usuario:String;
+var correo_usuario:String;
+
+interface
+
+implementation
+
+end.

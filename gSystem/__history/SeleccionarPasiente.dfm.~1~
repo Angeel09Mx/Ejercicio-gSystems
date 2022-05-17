@@ -1,0 +1,60 @@
+object FormSeleccionarPasiente: TFormSeleccionarPasiente
+  Left = 0
+  Top = 0
+  Caption = 'FormSeleccionarPasiente'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -15
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 18
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 299
+    Align = alClient
+    TabOrder = 0
+    ExplicitLeft = 504
+    ExplicitTop = 128
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object Panel2: TPanel
+      Left = 1
+      Top = 232
+      Width = 633
+      Height = 66
+      Align = alBottom
+      Color = clInactiveCaption
+      ParentBackground = False
+      TabOrder = 0
+      ExplicitLeft = 0
+      ExplicitTop = 233
+      object Button1: TButton
+        Left = 456
+        Top = 1
+        Width = 176
+        Height = 64
+        Align = alRight
+        Caption = 'CERRAR'
+        TabOrder = 0
+        OnClick = Button1Click
+      end
+      object Button2: TButton
+        Left = 1
+        Top = 1
+        Width = 176
+        Height = 64
+        Align = alLeft
+        Caption = 'SELECCIONAR'
+        TabOrder = 1
+        ExplicitLeft = 456
+      end
+    end
+  end
+end

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/27 12:41:52.000.167,=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/16 17:37:01.000.948,=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/16 17:37:30.000.392,C:\Users\angel\Documents\Embarcadero\Studio\Projects\Login.pas=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/16 17:37:30.000.392,C:\Users\angel\Documents\Embarcadero\Studio\Projects\Login.dfm=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/05/16 17:46:49.000.857,F:\PROGRAMACION\gSystem\Login.dfm=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Login.dfm</Transaction>
+    <Transaction>2022/05/16 17:46:49.000.857,F:\PROGRAMACION\gSystem\Login.pas=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Login.pas</Transaction>
+    <Transaction>2022/05/16 17:46:55.000.033,F:\PROGRAMACION\gSystem\Examen.dproj=C:\Users\angel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/16 17:55:17.000.661,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 17:55:23.000.081,F:\PROGRAMACION\gSystem\Server.dfm=F:\PROGRAMACION\gSystem\Unit1.dfm</Transaction>
+    <Transaction>2022/05/16 17:55:23.000.081,F:\PROGRAMACION\gSystem\Server.pas=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 18:36:45.000.773,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 18:36:53.000.380,F:\PROGRAMACION\gSystem\Principal.dfm=F:\PROGRAMACION\gSystem\Unit1.dfm</Transaction>
+    <Transaction>2022/05/16 18:36:53.000.380,F:\PROGRAMACION\gSystem\Principal.pas=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 18:42:22.000.498,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 18:42:32.000.793,F:\PROGRAMACION\gSystem\UGeneral.pas=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 20:09:25.000.299,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 20:10:26.000.516,F:\PROGRAMACION\gSystem\Unit1.pas=F:\PROGRAMACION\gSystem\Cita.pas</Transaction>
+    <Transaction>2022/05/16 20:10:26.000.516,F:\PROGRAMACION\gSystem\Unit1.dfm=F:\PROGRAMACION\gSystem\Cita.dfm</Transaction>
+    <Transaction>2022/05/16 20:45:09.000.713,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 20:46:16.000.309,F:\PROGRAMACION\gSystem\Unit1.dfm=F:\PROGRAMACION\gSystem\SeleccionarPasiente.dfm</Transaction>
+    <Transaction>2022/05/16 20:46:16.000.308,F:\PROGRAMACION\gSystem\Unit1.pas=F:\PROGRAMACION\gSystem\SeleccionarPasiente.pas</Transaction>
+    <Transaction>2022/05/16 21:42:18.000.974,=F:\PROGRAMACION\gSystem\Unit1.pas</Transaction>
+    <Transaction>2022/05/16 21:42:54.000.480,F:\PROGRAMACION\gSystem\Unit1.pas=F:\PROGRAMACION\gSystem\uLkJSON.pas</Transaction>
+    <Transaction>2022/05/16 21:43:55.000.802,F:\PROGRAMACION\gSystem\uLkJSON.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
